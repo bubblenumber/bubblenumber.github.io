@@ -1,0 +1,25 @@
+h1
+{
+
+	font-size: 50px;
+	font-style: Arial;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+ol
+{
+	font-size: 30px;
+	padding-left: 80px; 
+	width: 80%;
+}
+html,.row
+{
+	background-color: #66CCFF;
+
+}
+ol 
+{
+	padding-left: 150px;
+
+}
